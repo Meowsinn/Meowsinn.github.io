@@ -1,0 +1,33 @@
+th {
+    width: 40px;
+    height: 40px;
+    background-color: white; 
+}
+.orangepoop {
+    background-color: orange;
+}
+.redpoop {
+    background-color: red;
+}
+.yellowpoop {
+    background-color: yellow;
+}
+.greenpoop {
+    background-color: green;
+}
+.bluepoop {
+    background-color: blue;
+}
+.purplepoop {
+    background-color: purple;
+}
+table {
+    border: none;
+    border-collapse: collapse;
+}
+td {
+    border: none;
+}
+.blackpoop {
+    background-color: black;
+}
